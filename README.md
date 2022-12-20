@@ -3,7 +3,7 @@
 2022 Complete Python Bootcamp From Zero to Hero in Python
 https://www.udemy.com/share/101W8Q3@b4GkWbDUvGE2j73pkq_OZD373EAiAzj3aIyxFECCsX6U89hzn8s2YnDOQYLiBcozQw==/
 
-### Concepts I learned from course
+### Python knowledge I achieved from course
 ```bash
 » Python objects and Data structures Basic
 » Python camparison operations
