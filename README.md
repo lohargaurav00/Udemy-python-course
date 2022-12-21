@@ -23,5 +23,5 @@ https://www.udemy.com/share/101W8Q3@b4GkWbDUvGE2j73pkq_OZD373EAiAzj3aIyxFECCsX6U
 » GUI's in python
 ```
 
-### I achived course complition cirtificate on 18-Dec-2022.
+### I achieved course complition cirtificate on 18-Dec-2022.
 ![](https://github.com/lohargaurav00/Udemy-python-course/blob/main/Python%20course%20completion%20certificate.jpeg)
